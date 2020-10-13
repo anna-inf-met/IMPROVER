@@ -1,0 +1,8 @@
+exp_name: nnet_train15
+model: hidden
+epochs: 75
+lr: 0.01
+verbose: 1
+batch_size: 10000
+hidden_nodes: 10
+pickled_sets: 15_16.pkl
